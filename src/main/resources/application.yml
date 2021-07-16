@@ -1,0 +1,8 @@
+server:
+  port: 443
+wechat:
+  mp:
+    app-id: xxxxxxxxxxxxxxxxxx
+    app-secret: xxxxxxxxxxxxxxxxxxxxxxxxxx
+    token: xxxxxxxxxxxx
+
